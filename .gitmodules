@@ -1,0 +1,6 @@
+[submodule "Frontend"]
+	path = Frontend
+	url = https://github.com/MHKRathod/TRAVEL-APP-FRONTEND.git
+[submodule "travel_app_backend"]
+	path = travel_app_backend
+	url = https://github.com/MHKRathod/travel_app_backend.git
